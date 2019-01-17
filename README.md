@@ -1,7 +1,7 @@
 
-[![npm](https://img.shields.io/npm/v/node-is-class.svg)](https://www.npmjs.com/package/@dazejs/framework)
-[![npm](https://img.shields.io/npm/dm/node-is-class.svg)](https://www.npmjs.com/package/@dazejs/framework)
-[![npm](https://travis-ci.org/czewail/node-is-class.svg?branch=master)](https://www.npmjs.com/package/dazejs)
+[![npm](https://img.shields.io/npm/v/node-is-class.svg)](https://www.npmjs.com/package/node-is-class)
+[![npm](https://img.shields.io/npm/dm/node-is-class.svg)](https://www.npmjs.com/package/node-is-class)
+[![npm](https://travis-ci.org/czewail/node-is-class.svg?branch=master)](https://www.npmjs.com/package/node-is-class)
 [![GitHub license](https://img.shields.io/github/license/czewail/node-is-class.svg)](https://github.com/czewail/node-is-class/blob/master/LICENSE)
 
 # node-is-class
