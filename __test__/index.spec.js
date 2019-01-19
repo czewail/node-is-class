@@ -13,6 +13,10 @@ describe('node-is-class', () => {
     expect(isClass(function() {})).toBeFalsy()
   })
 
+  it('check arrow function', () => {
+    expect(isClass(() => {})).toBeFalsy()
+  })
+
   it('check other type', () => {
     expect(isClass('string')).toBeFalsy()
   })
