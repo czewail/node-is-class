@@ -1,7 +1,7 @@
 {
   "name": "node-is-class",
-  "version": "1.0.2",
-  "description": "",
+  "version": "1.0.3",
+  "description": "Check if function is an ES6 class",
   "main": "src/index.js",
   "dependencies": {},
   "devDependencies": {
