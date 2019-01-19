@@ -1,6 +1,6 @@
 {
   "name": "node-is-class",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Check if function is an ES6 class",
   "main": "src/index.js",
   "dependencies": {},
@@ -10,6 +10,10 @@
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/czewail/node-is-class"
+  },
   "keywords": [
     "function",
     "class",
@@ -18,6 +22,10 @@
     "isclass",
     "class-function"
   ],
-  "author": "",
+  "author": "Chan Zewail <chanzewail@gmail.com> (https://github.com/czewail)",
+  "bugs": {
+    "url": "https://github.com/czewail/node-is-class/issues"
+  },
+  "homepage": "https://github.com/czewail/node-is-class",
   "license": "MIT"
 }
