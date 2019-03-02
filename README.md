@@ -5,7 +5,7 @@
 [![GitHub license](https://img.shields.io/github/license/czewail/node-is-class.svg)](https://github.com/czewail/node-is-class/blob/master/LICENSE)
 
 # node-is-class
-Check if function is an ES6 class
+Check if function is an ES6 class (loose module)
 
 > Does not use toString, use Reflect.ownKeys to check it
 
